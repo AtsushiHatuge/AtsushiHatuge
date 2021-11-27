@@ -6,15 +6,6 @@ I'm Atsushi and I making Websites, Front-end & Designs Back-end Systems.
 🌌 Fun fact: I love coffee ☕   
 😄 Pronouns: he/hes   
 
-### What can I do?
-- **JavaScript**
-  - 👨‍🎓  __VUE.JS__
-- **PHP**
-  - __SQL__
-- **Coding in**
-  - __HTML__
-  - __CSS__
-
 ### Stats
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AtsushiHatuge&count_private=true&show_icons=true&theme=dark" />
