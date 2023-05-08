@@ -2,7 +2,6 @@
 
 I'm Atsushi and I making Websites, Front-end & Designs Back-end Systems. 
 
-🔎 I’m currently working on PvPCraft   
 🌌 Fun fact: I love coffee ☕   
 😄 Pronouns: he/hes       
 📑 Programing in PHP, CSS, JS, HTML | AXIOS       
