@@ -5,7 +5,6 @@ I'm Atsushi and I making Websites, Front-end & Designs Back-end Systems.
 🌌 Fun fact: I love coffee ☕   
 😄 Pronouns: he/hes       
 📑 Programing in PHP, CSS, JS, HTML | AXIOS       
-💬 My discord: Atsushi#1286
 
 ### Stats
 <div align="center">
